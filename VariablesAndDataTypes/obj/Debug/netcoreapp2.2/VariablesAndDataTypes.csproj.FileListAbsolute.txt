@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\bin\Debug\netcoreapp2.2\VariablesAndDataTypes.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\bin\Debug\netcoreapp2.2\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\bin\Debug\netcoreapp2.2\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\bin\Debug\netcoreapp2.2\VariablesAndDataTypes.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\bin\Debug\netcoreapp2.2\VariablesAndDataTypes.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VariablesAndDataTypes\obj\Debug\netcoreapp2.2\VariablesAndDataTypes.pdb

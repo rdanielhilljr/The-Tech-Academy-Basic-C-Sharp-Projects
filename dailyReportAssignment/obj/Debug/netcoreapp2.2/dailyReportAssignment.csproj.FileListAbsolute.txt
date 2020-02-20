@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\bin\Debug\netcoreapp2.2\dailyReportAssignment.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\bin\Debug\netcoreapp2.2\dailyReportAssignment.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\bin\Debug\netcoreapp2.2\dailyReportAssignment.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\bin\Debug\netcoreapp2.2\dailyReportAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\bin\Debug\netcoreapp2.2\dailyReportAssignment.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\dailyReportAssignment\obj\Debug\netcoreapp2.2\dailyReportAssignment.pdb
