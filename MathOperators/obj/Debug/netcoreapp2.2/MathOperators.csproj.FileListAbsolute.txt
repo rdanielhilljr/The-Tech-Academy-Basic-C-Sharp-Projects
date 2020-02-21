@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\bin\Debug\netcoreapp2.2\MathOperators.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\bin\Debug\netcoreapp2.2\MathOperators.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\bin\Debug\netcoreapp2.2\MathOperators.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\bin\Debug\netcoreapp2.2\MathOperators.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\bin\Debug\netcoreapp2.2\MathOperators.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperators\obj\Debug\netcoreapp2.2\MathOperators.pdb
