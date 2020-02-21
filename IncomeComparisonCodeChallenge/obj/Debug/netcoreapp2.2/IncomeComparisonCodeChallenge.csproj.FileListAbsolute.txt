@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\bin\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\bin\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\bin\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\bin\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\bin\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparisonCodeChallenge\obj\Debug\netcoreapp2.2\IncomeComparisonCodeChallenge.pdb
