@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\bin\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\bin\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\bin\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\bin\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\bin\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanCarInsuranceCodeChallenge\obj\Debug\netcoreapp2.2\BooleanCarInsuranceCodeChallenge.pdb

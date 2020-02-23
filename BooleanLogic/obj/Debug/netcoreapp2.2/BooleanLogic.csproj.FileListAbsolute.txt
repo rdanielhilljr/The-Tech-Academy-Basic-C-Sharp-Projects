@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\bin\Debug\netcoreapp2.2\BooleanLogic.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\bin\Debug\netcoreapp2.2\BooleanLogic.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\bin\Debug\netcoreapp2.2\BooleanLogic.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\bin\Debug\netcoreapp2.2\BooleanLogic.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\bin\Debug\netcoreapp2.2\BooleanLogic.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogic\obj\Debug\netcoreapp2.2\BooleanLogic.pdb
