@@ -1,0 +1,11 @@
+C:\Users\dnybo\source\repos\packageExpressProject\bin\Debug\netcoreapp2.2\packageExpressProject.deps.json
+C:\Users\dnybo\source\repos\packageExpressProject\bin\Debug\netcoreapp2.2\packageExpressProject.runtimeconfig.json
+C:\Users\dnybo\source\repos\packageExpressProject\bin\Debug\netcoreapp2.2\packageExpressProject.runtimeconfig.dev.json
+C:\Users\dnybo\source\repos\packageExpressProject\bin\Debug\netcoreapp2.2\packageExpressProject.dll
+C:\Users\dnybo\source\repos\packageExpressProject\bin\Debug\netcoreapp2.2\packageExpressProject.pdb
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.csprojAssemblyReference.cache
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.AssemblyInfoInputs.cache
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.AssemblyInfo.cs
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.dll
+C:\Users\dnybo\source\repos\packageExpressProject\obj\Debug\netcoreapp2.2\packageExpressProject.pdb
