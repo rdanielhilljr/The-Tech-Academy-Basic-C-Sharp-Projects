@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\bin\Debug\netcoreapp2.2\StringPractice.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\bin\Debug\netcoreapp2.2\StringPractice.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\bin\Debug\netcoreapp2.2\StringPractice.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\bin\Debug\netcoreapp2.2\StringPractice.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\bin\Debug\netcoreapp2.2\StringPractice.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StringPractice\obj\Debug\netcoreapp2.2\StringPractice.pdb
