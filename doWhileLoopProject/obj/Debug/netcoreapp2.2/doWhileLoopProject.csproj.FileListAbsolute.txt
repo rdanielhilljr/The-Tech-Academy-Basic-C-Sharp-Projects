@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\bin\Debug\netcoreapp2.2\doWhileLoopProject.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\bin\Debug\netcoreapp2.2\doWhileLoopProject.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\bin\Debug\netcoreapp2.2\doWhileLoopProject.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\bin\Debug\netcoreapp2.2\doWhileLoopProject.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\bin\Debug\netcoreapp2.2\doWhileLoopProject.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\doWhileLoopProject\obj\Debug\netcoreapp2.2\doWhileLoopProject.pdb
