@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\bin\Debug\netcoreapp2.2\newArraysAndListChallenge.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\bin\Debug\netcoreapp2.2\newArraysAndListChallenge.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\bin\Debug\netcoreapp2.2\newArraysAndListChallenge.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\bin\Debug\netcoreapp2.2\newArraysAndListChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\bin\Debug\netcoreapp2.2\newArraysAndListChallenge.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\newArraysAndListChallenge\obj\Debug\netcoreapp2.2\newArraysAndListChallenge.pdb
