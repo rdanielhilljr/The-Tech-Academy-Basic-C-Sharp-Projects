@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\bin\Debug\netcoreapp2.2\iterationPractice.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\bin\Debug\netcoreapp2.2\iterationPractice.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\bin\Debug\netcoreapp2.2\iterationPractice.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\bin\Debug\netcoreapp2.2\iterationPractice.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\bin\Debug\netcoreapp2.2\iterationPractice.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\iterationPractice\obj\Debug\netcoreapp2.2\iterationPractice.pdb
