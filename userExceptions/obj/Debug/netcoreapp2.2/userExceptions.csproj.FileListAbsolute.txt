@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\bin\Debug\netcoreapp2.2\userExceptions.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\bin\Debug\netcoreapp2.2\userExceptions.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\bin\Debug\netcoreapp2.2\userExceptions.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\bin\Debug\netcoreapp2.2\userExceptions.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\bin\Debug\netcoreapp2.2\userExceptions.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\userExceptions\obj\Debug\netcoreapp2.2\userExceptions.pdb
