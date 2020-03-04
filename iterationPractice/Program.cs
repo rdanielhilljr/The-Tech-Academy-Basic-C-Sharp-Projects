@@ -83,7 +83,7 @@ namespace iterationPractice
 
             //foreach (string car in cars)
             //{
-               
+
             //    if (userPick == car)
 
 
@@ -95,11 +95,35 @@ namespace iterationPractice
             //    {
 
             //        Console.WriteLine("You did not choose an available car maker."); 
-            //        break;
 
             //   }
 
             //}
+
+
+            //Code Challenge 9 
+
+            List<String> cars = new List<string>() { "Ford", "Jeep", "BMW", "Honda", "Audi", "Honda" };
+            Console.WriteLine("Who is your favorite car maker?");
+            string userPick = Console.ReadLine();
+            int indexCounter = 0;
+
+            foreach (string car in cars)
+            {
+                if (userPick == car)
+                {
+                    Console.WriteLine("Your choice is at index " + indexCounter);
+                }
+                else
+                {
+                    Console.WriteLine("You did not choose an available car maker.");
+                }
+                indexCounter++;
+            }
+
+
+
+
 
 
             // CODE CHALLENGE 11
