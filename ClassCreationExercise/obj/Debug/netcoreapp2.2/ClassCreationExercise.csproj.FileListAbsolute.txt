@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\bin\Debug\netcoreapp2.2\ClassCreationExercise.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\bin\Debug\netcoreapp2.2\ClassCreationExercise.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\bin\Debug\netcoreapp2.2\ClassCreationExercise.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\bin\Debug\netcoreapp2.2\ClassCreationExercise.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\bin\Debug\netcoreapp2.2\ClassCreationExercise.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassCreationExercise\obj\Debug\netcoreapp2.2\ClassCreationExercise.pdb
