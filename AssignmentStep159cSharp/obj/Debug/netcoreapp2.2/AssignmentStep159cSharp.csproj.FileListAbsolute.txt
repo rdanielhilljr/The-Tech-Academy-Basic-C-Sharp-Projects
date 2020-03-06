@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\bin\Debug\netcoreapp2.2\AssignmentStep159cSharp.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\bin\Debug\netcoreapp2.2\AssignmentStep159cSharp.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\bin\Debug\netcoreapp2.2\AssignmentStep159cSharp.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\bin\Debug\netcoreapp2.2\AssignmentStep159cSharp.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\bin\Debug\netcoreapp2.2\AssignmentStep159cSharp.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AssignmentStep159cSharp\obj\Debug\netcoreapp2.2\AssignmentStep159cSharp.pdb
