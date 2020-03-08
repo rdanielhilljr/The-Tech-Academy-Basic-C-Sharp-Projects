@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\bin\Debug\netcoreapp2.2\VoidMethodAssignment161.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\bin\Debug\netcoreapp2.2\VoidMethodAssignment161.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\bin\Debug\netcoreapp2.2\VoidMethodAssignment161.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\bin\Debug\netcoreapp2.2\VoidMethodAssignment161.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\bin\Debug\netcoreapp2.2\VoidMethodAssignment161.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\VoidMethodAssignment161\obj\Debug\netcoreapp2.2\VoidMethodAssignment161.pdb
