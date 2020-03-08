@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\bin\Debug\netcoreapp2.2\twentyOne.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\bin\Debug\netcoreapp2.2\twentyOne.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\bin\Debug\netcoreapp2.2\twentyOne.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\bin\Debug\netcoreapp2.2\twentyOne.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\bin\Debug\netcoreapp2.2\twentyOne.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\twentyOne\obj\Debug\netcoreapp2.2\twentyOne.pdb

@@ -69,7 +69,7 @@ namespace userExceptions
             finally
             {
                 Console.WriteLine("This program has emerged from the try/catch block.");
-                Console.ReadLine();
+                Console.ReadLine(); 
             }
             
 

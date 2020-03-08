@@ -1,0 +1,11 @@
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.csprojAssemblyReference.cache
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.AssemblyInfoInputs.cache
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.AssemblyInfo.cs
+C:\Users\dnybo\source\repos\arraysAndLists\bin\Debug\netcoreapp2.2\arraysAndLists.deps.json
+C:\Users\dnybo\source\repos\arraysAndLists\bin\Debug\netcoreapp2.2\arraysAndLists.runtimeconfig.json
+C:\Users\dnybo\source\repos\arraysAndLists\bin\Debug\netcoreapp2.2\arraysAndLists.runtimeconfig.dev.json
+C:\Users\dnybo\source\repos\arraysAndLists\bin\Debug\netcoreapp2.2\arraysAndLists.dll
+C:\Users\dnybo\source\repos\arraysAndLists\bin\Debug\netcoreapp2.2\arraysAndLists.pdb
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.dll
+C:\Users\dnybo\source\repos\arraysAndLists\obj\Debug\netcoreapp2.2\arraysAndLists.pdb
