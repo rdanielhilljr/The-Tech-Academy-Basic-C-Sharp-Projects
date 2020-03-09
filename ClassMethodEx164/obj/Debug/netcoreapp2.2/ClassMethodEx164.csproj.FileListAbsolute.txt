@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\bin\Debug\netcoreapp2.2\ClassMethodEx164.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\bin\Debug\netcoreapp2.2\ClassMethodEx164.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\bin\Debug\netcoreapp2.2\ClassMethodEx164.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\bin\Debug\netcoreapp2.2\ClassMethodEx164.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\bin\Debug\netcoreapp2.2\ClassMethodEx164.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ClassMethodEx164\obj\Debug\netcoreapp2.2\ClassMethodEx164.csprojAssemblyReference.cache
