@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\bin\Debug\netcoreapp2.2\ReduxAssignmentPage160.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\bin\Debug\netcoreapp2.2\ReduxAssignmentPage160.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\bin\Debug\netcoreapp2.2\ReduxAssignmentPage160.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\bin\Debug\netcoreapp2.2\ReduxAssignmentPage160.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\bin\Debug\netcoreapp2.2\ReduxAssignmentPage160.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\ReduxAssignmentPage160\obj\Debug\netcoreapp2.2\ReduxAssignmentPage160.pdb
