@@ -6,8 +6,11 @@ namespace VoidMethodAssignment161
 {
     class Math
     {
-        public int num1;
-        public int num2;
+        public void Computation(int x, int y)
+        {
+            int result = x + y;
+            Console.WriteLine(x + " + " + y + " is equal to " + result);
+        }
         
     }
     

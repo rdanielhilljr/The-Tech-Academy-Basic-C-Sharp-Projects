@@ -10,10 +10,10 @@ namespace VoidMethodAssignment161
         {
             Math math = new Math();
 
-            math.num2 = 5;
-            math.num1 = 10;
+            int num1 = 5;
+            int num2 = 10;
 
-            Console.WriteLine(math.num2 + math.num1);
+            math.Computation(num1, num2);
             Console.ReadLine();
         }
 
