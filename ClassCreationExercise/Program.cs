@@ -22,10 +22,10 @@ namespace ClassCreationExercise
 
             Console.WriteLine("Please enter two whole numbers (one at a time) to see what your number plus five equals:");
             int userPick = Convert.ToInt32(Console.ReadLine());
-            int yourNum = Computation.Addition(userPick);
+            int yourNum = Computation.Adds(userPick);
             Console.WriteLine(userPick + " + 5 = " + yourNum);
             int userPick2 = Convert.ToInt32(Console.ReadLine());
-            int yourNum2 = Computation.Addition(userPick2);
+            int yourNum2 = Computation.Adds(userPick2);
             Console.WriteLine(userPick2 + " + 5 = " + yourNum2);
             Console.ReadLine();
 

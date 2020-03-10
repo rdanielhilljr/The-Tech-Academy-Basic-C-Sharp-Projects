@@ -27,7 +27,7 @@ namespace ClassCreationExercise
         //    int Answer = Num1 * Num2;
         //    return Answer;
         //}
-        public static int Addition(int x, int y = 5)
+        public static int Adds(int x, int y = 5)
         {
             int num1 = x;
             int num2 = y;

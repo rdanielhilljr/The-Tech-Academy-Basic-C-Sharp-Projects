@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\bin\Debug\netcoreapp2.2\SuperClassAssignment169.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\bin\Debug\netcoreapp2.2\SuperClassAssignment169.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\bin\Debug\netcoreapp2.2\SuperClassAssignment169.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\bin\Debug\netcoreapp2.2\SuperClassAssignment169.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\bin\Debug\netcoreapp2.2\SuperClassAssignment169.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\SuperClassAssignment169\obj\Debug\netcoreapp2.2\SuperClassAssignment169.pdb
