@@ -12,5 +12,6 @@ namespace AbstractClassAssignment176
             employee.SayName();
             Console.ReadLine();
         }
+        public void Quit(Person person);
     }
 }
