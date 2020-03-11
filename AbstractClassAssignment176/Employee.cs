@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClassAssignment176
 {
-    public class Employee : Person : IQuittable
+    public class Employee : Person, IQuittable
     {
        public override void SayName()
         {
@@ -12,9 +12,9 @@ namespace AbstractClassAssignment176
             base.SayName();
         }
 
-        public void Quit(Person person)
+        public void Quit()
         {
-            Console.WriteLine("I quit");
+            Console.WriteLine("I, " + firstName + " " + lastName + " Quit!");
         }
     }
 }

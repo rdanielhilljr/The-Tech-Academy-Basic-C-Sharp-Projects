@@ -4,7 +4,7 @@ using System.Text;
 
 namespace twentyOne
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -14,6 +14,11 @@ namespace twentyOne
         {
             Console.WriteLine("21 Playeers:");
             base.listPlayers();
+        }
+
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }

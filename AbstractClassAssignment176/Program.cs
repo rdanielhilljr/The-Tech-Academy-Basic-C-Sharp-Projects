@@ -9,9 +9,10 @@ namespace AbstractClassAssignment176
             Employee employee = new Employee();
             employee.firstName = "Sample";
             employee.lastName = "Student";
-            employee.SayName();
+            //employee.SayName();
+            employee.Quit();
             Console.ReadLine();
         }
-        public void Quit(Person person);
+        
     }
 }
