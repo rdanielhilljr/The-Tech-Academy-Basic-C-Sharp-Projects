@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\bin\Debug\netcoreapp2.2\AbstractClassAssignment176.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\bin\Debug\netcoreapp2.2\AbstractClassAssignment176.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\bin\Debug\netcoreapp2.2\AbstractClassAssignment176.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\bin\Debug\netcoreapp2.2\AbstractClassAssignment176.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\bin\Debug\netcoreapp2.2\AbstractClassAssignment176.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassAssignment176\obj\Debug\netcoreapp2.2\AbstractClassAssignment176.pdb
