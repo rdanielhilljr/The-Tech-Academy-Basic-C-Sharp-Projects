@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dnybo\\OneDrive\\Desktop\\School\\The-Tech-Academy-Basic-C-Sharp-Projects\\OverLoadAssignment184\\OverLoadAssignment184.csproj",
-      "projectName": "OverLoadAssignment184",
-      "projectPath": "C:\\Users\\dnybo\\OneDrive\\Desktop\\School\\The-Tech-Academy-Basic-C-Sharp-Projects\\OverLoadAssignment184\\OverLoadAssignment184.csproj",
+      "projectUniqueName": "C:\\Users\\dnybo\\OneDrive\\Desktop\\School\\The-Tech-Academy-Basic-C-Sharp-Projects\\OverLoadAssignment184\\GenericTypeParameter.csproj",
+      "projectName": "GenericTypeParameter",
+      "projectPath": "C:\\Users\\dnybo\\OneDrive\\Desktop\\School\\The-Tech-Academy-Basic-C-Sharp-Projects\\OverLoadAssignment184\\GenericTypeParameter.csproj",
       "packagesPath": "C:\\Users\\dnybo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dnybo\\OneDrive\\Desktop\\School\\The-Tech-Academy-Basic-C-Sharp-Projects\\OverLoadAssignment184\\obj\\",
       "projectStyle": "PackageReference",
