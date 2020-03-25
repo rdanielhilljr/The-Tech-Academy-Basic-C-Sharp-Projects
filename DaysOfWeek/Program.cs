@@ -24,20 +24,24 @@ namespace DaysOfWeek
             string day = Console.ReadLine();
             foreach (string str in Enum.GetNames(typeof(WeekDay)))
             {
-                try
+                
                 {
                     if (day == str)
                     {
 
                         Console.WriteLine("Yes, today is " + str);
                     }
+                    else
+                    {
+                        Console.WriteLine("Please enter an actual day of the week.");
+                    }
                     
 
                 }
-                catch (Exception e)
-                {
-                    Console.WriteLine("Please enter an actual day of the week.", e);
-                }
+                
+                
+                    
+                
             }
                 
                 
