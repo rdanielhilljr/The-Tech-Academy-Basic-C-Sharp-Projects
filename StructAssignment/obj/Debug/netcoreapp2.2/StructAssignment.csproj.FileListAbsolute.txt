@@ -1,0 +1,10 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\bin\Debug\netcoreapp2.2\StructAssignment.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\bin\Debug\netcoreapp2.2\StructAssignment.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\bin\Debug\netcoreapp2.2\StructAssignment.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\bin\Debug\netcoreapp2.2\StructAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\bin\Debug\netcoreapp2.2\StructAssignment.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\obj\Debug\netcoreapp2.2\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\obj\Debug\netcoreapp2.2\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\obj\Debug\netcoreapp2.2\StructAssignment.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\obj\Debug\netcoreapp2.2\StructAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\obj\Debug\netcoreapp2.2\StructAssignment.pdb
