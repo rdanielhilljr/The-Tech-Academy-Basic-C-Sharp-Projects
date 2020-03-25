@@ -14,7 +14,8 @@ namespace AbstractClassAssignment176
 
         public void Quit()
         {
-            Console.WriteLine("I, " + firstName + " " + lastName + " Quit!");
+            Console.WriteLine("I, " + firstName + " " + lastName + " employee #" + ID+ " Quit!");
         }
+        
     }
 }

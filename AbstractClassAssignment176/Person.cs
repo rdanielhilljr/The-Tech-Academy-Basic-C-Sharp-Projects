@@ -9,9 +9,12 @@ namespace AbstractClassAssignment176
         public string firstName { get; set; }
         public string lastName { get; set; }
 
+        public int ID { get; set; }
+
         public virtual void SayName()
         {
-            Console.WriteLine(firstName + " " + lastName);
+            Console.WriteLine(firstName + " " + lastName + " employee ID " + ID);
         }
+        
     }
 }

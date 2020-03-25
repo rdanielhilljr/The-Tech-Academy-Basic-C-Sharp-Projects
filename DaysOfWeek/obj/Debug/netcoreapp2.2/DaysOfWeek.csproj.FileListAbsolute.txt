@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.pdb
