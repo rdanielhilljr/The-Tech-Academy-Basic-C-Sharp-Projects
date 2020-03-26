@@ -1,0 +1,11 @@
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\bin\Debug\netcoreapp2.2\LamdaAssignment.deps.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\bin\Debug\netcoreapp2.2\LamdaAssignment.runtimeconfig.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\bin\Debug\netcoreapp2.2\LamdaAssignment.runtimeconfig.dev.json
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\bin\Debug\netcoreapp2.2\LamdaAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\bin\Debug\netcoreapp2.2\LamdaAssignment.pdb
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.csprojAssemblyReference.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.AssemblyInfoInputs.cache
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.AssemblyInfo.cs
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.dll
+C:\Users\dnybo\OneDrive\Desktop\School\The-Tech-Academy-Basic-C-Sharp-Projects\LamdaAssignment\obj\Debug\netcoreapp2.2\LamdaAssignment.pdb
